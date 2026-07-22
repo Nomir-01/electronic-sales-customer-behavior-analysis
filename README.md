@@ -21,7 +21,6 @@ The analysis uses Welch two-sample tests, Wilcoxon rank-sum testing, Kruskal-Wal
 │   ├── h3.r                # Monthly quantity analysis
 │   └── install_packages.r  # Installs missing R packages
 ├── Data/                   # Local source CSV location
-├── Presentations/          # Midterm and final presentations
 └── run_analysis.r          # Reproducible entry point
 ```
 
