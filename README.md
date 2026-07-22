@@ -38,4 +38,4 @@ source("run_analysis.r", encoding = "UTF-8")
 
 ## Data
 
-The analysis expects `Data/Electronic_sales_Sep2023-Sep2024.csv`. The customer-level CSV is intentionally excluded from the public Git repository; place your authorized local copy at that path before running the scripts. It contains customer demographics, order details, product types, payment and shipping methods, purchase dates, add-on descriptions, and transaction values.
+The included `Data/Electronic_sales_Sep2023-Sep2024.csv` contains customer demographics, order details, product types, payment and shipping methods, purchase dates, add-on descriptions, and transaction values. The analysis loads it directly from that path.

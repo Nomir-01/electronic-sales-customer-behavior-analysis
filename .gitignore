@@ -4,7 +4,5 @@
 .Rproj.user/
 Rplots.pdf
 *.Rproj
-Data/*.csv
-!Data/.gitkeep
 .DS_Store
 Thumbs.db
