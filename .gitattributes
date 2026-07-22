@@ -1,0 +1,4 @@
+*.r text eol=lf
+*.R text eol=lf
+*.csv text eol=lf
+*.pptx binary
